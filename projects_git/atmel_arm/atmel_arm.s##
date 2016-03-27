@@ -389,7 +389,7 @@ Standard 8.5x11 US Letter frame</description>
 <plain>
 </plain>
 <instances>
-<instance part="U$1" gate="G$1" x="78.74" y="38.1"/>
+<instance part="U$1" gate="G$1" x="91.44" y="88.9"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="V" x="147.32" y="0"/>
 </instances>
